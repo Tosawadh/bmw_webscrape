@@ -5,8 +5,8 @@
 
 ## Files
 1. README.md: This file
-2. code.ipynb: File used in the video
+2. bmw_scrape.ipynb: File used in the video
 
 ## Links
-- [Toyota Thailand](https://www.toyota.co.th)
+- [All Models | BMW](https://www.bmw.co.th/th/all-models.html)
 - YouTube Video (Coming soon)
