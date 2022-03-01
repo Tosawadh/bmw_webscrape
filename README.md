@@ -6,7 +6,7 @@
 
 ## Files
 1. README.md: This file
-2. bmw_scrape.ipynb: Scapred File
+2. bmw_scrape.ipynb: Scraped File
 
 ## Links
 - [All Models | BMW](https://www.bmw.co.th/th/all-models.html)
